@@ -2,4 +2,4 @@ networkx
 matplotlib
 numpy
 scipy
-power_law
+powerlaw
