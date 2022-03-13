@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1' 
+VERSION = '0.0.2' 
 DESCRIPTION = 'NetSpy'
 LONG_DESCRIPTION = 'My first Python package with a slightly longer description'
 
