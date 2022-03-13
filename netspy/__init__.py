@@ -1,3 +1,10 @@
-from file import method 
+from object1 import object1
 
-# 'method' is a function that is present in a file called 'file.py'
+print("hello")
+
+
+if __name__=='__main__':
+    
+    
+    print(dir(object1))
+    
